@@ -21,4 +21,5 @@ php artisan view:clear
 php artisan test
 
 # Test fails:
+# Database connection [1] not configured.
 ```
